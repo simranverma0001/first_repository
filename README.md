@@ -14,12 +14,4 @@ Project Title – The name of your project.
 Description – A short explanation of what your project does.
 
 Installation Instructions – Steps to install or set up the project.
-Usage – How to use the project.
-
-Contributing – Guidelines for contributing to the project.
-
-License – Specifies the license type (e.g., MIT, Apache).
-
-Contact Information – Author details or support links.
-
 
